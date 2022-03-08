@@ -5,3 +5,6 @@ class Backpack:
 
 
 my_backpack = Backpack()
+# outside the class
+
+print(my_backpack.items)
