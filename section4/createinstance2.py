@@ -4,4 +4,4 @@ class Radious:
 
 
 my_obbject = Radious(50)
-print(my_obbject)
+print(my_obbject.radious)
