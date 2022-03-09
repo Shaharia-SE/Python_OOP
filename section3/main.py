@@ -1,2 +1,1 @@
-class Backboon:
-    pass
+print("rony")
