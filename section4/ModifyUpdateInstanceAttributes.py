@@ -5,6 +5,12 @@ class Backpack:
 
 
 my_backpack = Backpack("Blue")
+your_backpack = Backpack("Red")
 print(my_backpack.color)
-my_backpack.color = "Red"
+print(your_backpack.color)
+
+print("Changing Color")
+
+my_backpack.color = "Green"
 print(my_backpack.color)
+print(your_backpack.color)
