@@ -1,5 +1,18 @@
-# Classes ==================================================================
-
+"""
+Your best friend is founding a startup and he desperately needs your help to implement
+a payroll system. The developer he hired last month only completed part of the program
+because he had a medical emergency and had to quit the job before completing it.
+ Your job is to complete the classes in the existing payroll system by including
+the necessary class attributes.
+ First, you need to analyze the “payroll” function located at the bottom of the file
+(or in the code below). From that code, you need to determine the attributes
+that the classes require. After meeting with your friend, you have determined
+that these attributes are shared by all instances of the classes, so they will be
+class attributes.
+ Assign realistic values to them.
+ Submit your code and the program output displayed after running it to complete
+this mini project
+"""
 class Programmer:
     salary = 15000
     monthly_bonus = 300
