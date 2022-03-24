@@ -1,5 +1,5 @@
 class Suit:
-    SYMBOLS = {"clubs": "@", "diamonds": "#", "hearts": "!", "spades": "&"}
+    SYMBOLS = {"clubs": "@", "diamonds": "#", "hearts": "!"}
 
     def __init__(self, description):
         self._description = description
