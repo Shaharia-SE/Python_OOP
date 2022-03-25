@@ -13,5 +13,3 @@ class Suit:
     def symbol(self):
         return self._symbol
 
-
-print("Suit")
