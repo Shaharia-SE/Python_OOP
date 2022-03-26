@@ -4,10 +4,12 @@ from suit import Suit
 
 
 class Deck:
-    SUIT = ("clubs", "diamond", "hearts", "spades")
+
+    SUITS = ("clubs", "diamond", "hearts", "spades")
 
     def __init__(self, is_empty=False):
         self._cards = []
+        
         if not is_empty:
             self.build()
 
