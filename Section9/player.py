@@ -7,6 +7,7 @@ class Player:
     @property
     def is_computer(self):
         return self._is_computer
+
     @property
     def deck(self):
         return self._deck
@@ -25,4 +26,3 @@ class Player:
     def add_card(self, card):
 
         self._deck.add(card)
-
