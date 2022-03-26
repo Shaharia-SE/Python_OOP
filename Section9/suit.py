@@ -12,4 +12,3 @@ class Suit:
     @property
     def symbol(self):
         return self._symbol
-
