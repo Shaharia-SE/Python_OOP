@@ -98,5 +98,5 @@ class WarCardGame:
 
     def print_welcome_message(self):
         print("===========================")
-        print("|       War Card Game        |")
+        print("|     War Card Game        |")
         print("============================")
